@@ -1,0 +1,12 @@
+name: FixItem
+api: 5.0.0
+version: 1.0.0
+author: ItsFestivalVN
+main: ItsFestivalVN\FixItem
+commands:
+  fix:
+    description: "Fix Item In Your Hand"
+    permission: fix.cmd
+permissions:
+  fix.cmd:
+    default: true
